@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "AuAofENSTBa4y/MvVzbSetB4b2gDQ73ySQOSWYum/s+6pP466UgXiEn2ZkaMVV16dbNLHkB5Wzul/h1f137EcA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jecne\\Desktop\\SistemaHotel\\SistemaHotel\\Shared\\SistemaHotel.Shared.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jecne\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.14\\microsoft.netcore.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\jecne\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.14\\microsoft.windowsdesktop.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\jecne\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.14\\microsoft.aspnetcore.app.ref.7.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}
